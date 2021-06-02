@@ -1,1 +1,1 @@
-# cse284_covid19_PRS
+# CSE284_covid19_PRS
