@@ -1,6 +1,6 @@
 # Predicting COVID-19 Severity Using a Polygenic Risk Score
 
-Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
+Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
 
 <b> 0.Clean_Covid19_Variants.ipynb </b>
 - https://storage.googleapis.com/covid19-hg-public/20201215/results/20210107/COVID19_HGI_A2_ALL_leave_23andme_20210107.b37.txt.gz
