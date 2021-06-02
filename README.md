@@ -1,4 +1,4 @@
-# CSE284_COVID19_PRS
+# CSE284 Project: Polygenic risk scores for COVID-19 severity using blood type
 
 0.Clean_Covid19_Variants.ipynb
 - Removed duplicate SNPs
