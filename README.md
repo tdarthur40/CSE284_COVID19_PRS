@@ -20,10 +20,10 @@
 - Validated PRS model using AUC
 
 <b> training_set.txt </b>
-- 1000Genome individuals in training set
+- 1000G individuals in training set
 
 <b> validation_set.txt </b>
-- 1000Genome individuals in validation set
+- 1000G individuals in validation set
 
-<b> Blood type predictions for 1000Genomes </b>
+<b> Blood type predictions for 1000G </b>
 - https://github.com/kevin-fang/Arvados-Blood-Types-and-Ethnicity
