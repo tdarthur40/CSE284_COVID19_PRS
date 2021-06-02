@@ -24,7 +24,7 @@ Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
 <b> plink/ </b>
 - Contains plink files needed for PRS
 - Several files are not uploaded due to large size
-- Refer to 1.Compute_PRS.sh for code used to generate
+- Refer to <b>1.Compute_PRS.sh</b> for code used to generate
 
 <b> training_set.txt </b>
 - 1000G individuals in training set
