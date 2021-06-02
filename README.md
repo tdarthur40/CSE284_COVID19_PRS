@@ -1,4 +1,4 @@
-# CSE284: Polygenic risk scores for COVID-19 severity using blood type
+# Predicting COVID-19 Severity Using a Polygenic Risk Score
 
 0.Clean_Covid19_Variants.ipynb
 - Removed duplicate SNPs
