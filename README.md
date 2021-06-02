@@ -19,6 +19,9 @@
 <b> 3.PRS_Validation.ipynb </b>
 - Validated PRS model using AUC
 
+<b> plink/ </b>
+- Contains plink files needed for PRS
+
 <b> training_set.txt </b>
 - 1000G individuals in training set
 
@@ -27,3 +30,6 @@
 
 <b> Blood type predictions for 1000G </b>
 - https://github.com/kevin-fang/Arvados-Blood-Types-and-Ethnicity
+
+<b> PRS Plink Tutorial </b> 
+- https://choishingwan.github.io/PRS-Tutorial/plink/
