@@ -32,6 +32,13 @@ Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
 <b> validation_set.txt </b>
 - 1000G individuals in validation set
 
+# References
+<b> Phase 3 1000 Genomes Dataset </b>
+- https://www.internationalgenome.org/data
+
+<b> COVID-19 Host Genetics Initiative </b> 
+- https://www.covid19hg.org/
+
 <b> Blood type predictions for 1000G </b>
 - https://github.com/kevin-fang/Arvados-Blood-Types-and-Ethnicity
 
