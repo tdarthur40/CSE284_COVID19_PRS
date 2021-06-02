@@ -24,3 +24,6 @@ training_set.txt
 
 validation_set.txt
 - 1000Genome individuals in validation set
+
+Blood type predictions for 1000Genomes
+- https://github.com/kevin-fang/Arvados-Blood-Types-and-Ethnicity
