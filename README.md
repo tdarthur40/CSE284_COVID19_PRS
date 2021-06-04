@@ -13,18 +13,18 @@ Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
 - Filtered overlapped SNPs with COVID19 variants
 - Uses prep_vcf.sh to filter by chromosome
 
-<b> 1a.FilterPRS_1000G.sh
+<b> 1a.FilterPRS_1000G.sh </b>
 - Applied additional filters to 1000G vcf with plink
 - Pruned remaining SNPs in 1000G vcf 
 - Removed related individuals
   
-<b> 1b.CalculatePRS.sh
+<b> 1b.CalculatePRS.sh </b>
 - Performed variant clumping
 - Thresholded variants by p-value
 - Calculated PRS
   
-<b> 1c.FilterPRS_companionNotebook.ipynb
-- Contains data wrangling associated with the PRS calculation
+<b> 1c.FilterPRS_companionNotebook.ipynb </b>
+- R scripts for data wrangling associated with the PRS calculation
 
 <b> 2.PRS_Blood_Analysis.ipynb </b>
 - Examined distribution of blood type in 1000G populations
