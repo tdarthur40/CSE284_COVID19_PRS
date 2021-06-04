@@ -25,6 +25,7 @@ Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
   
 <b> 1c.FilterPRS_companionNotebook.ipynb </b>
 - R scripts for data wrangling associated with the PRS calculation
+- Created Training and Validation Datasets
 
 <b> 2.PRS_Blood_Analysis.ipynb </b>
 - Examined distribution of blood type in 1000G populations
@@ -37,7 +38,7 @@ Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
 <b> plink/ </b>
 - Contains plink files needed for PRS
 - Several files are not uploaded due to large size
-- Refer to <b>1.Compute_PRS.sh</b> on how to generate
+- Refer to <b>1b.CalculatePRS.sh </b> on how to generate
 
 <b> training_set.txt </b>
 - 1000G individuals in training set
